@@ -1,1 +1,1 @@
-A simple chat applictaion to chat between different accounts using kotlin, firebase
+A simple chat application to chat between different accounts using Kotlin, firebase
